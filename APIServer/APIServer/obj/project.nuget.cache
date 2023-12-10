@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WL+JifhDE5VFgUIgBzqMHnzUysTAGy87yf8lpzKY/Uf8tP069nLpxS8Ewj+YIxzuHqFjxAWOcXX3b/t47Ole2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vatulin\\Desktop\\trading-bot\\APIServer\\APIServer\\APIServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vatulin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vatulin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vatulin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\vatulin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\vatulin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\vatulin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
